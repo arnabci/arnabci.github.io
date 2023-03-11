@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>+1(240)259-1069</p>
-    <p>arnab1309@outlook.com</p>
     <p>College Park, Maryland</p>
+    <p>arnab1309@outlook.com</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
