@@ -2,66 +2,47 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Arnab Dutta
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th September 1995
     - name: Languages
-      value: English, German
+      value: English, Hindi, Marathi, Bengali
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Masters of Engineering - CyberSecurity
+      institution: University of Maryland, College Park
+      year: 2021 - 2023
+
+    - title: Bachelor of Engineering - Computer
+      institution: Savitribai Phule Pune University, Pune
+      year: 2013 - 2017
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior DevOps Engineer
+      institution: Flentas Technologies
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Automated entire infrastructure and monitoring setup of major MNC companies that included more than 70 EC2 Instances and 10,000 Alerts each, using CloudFormation scripts.
+        - Developed Complex Production Architectures involving multiple Kubernetes deployments using Ansible and Terraform on Jenkins.
+        - Trained more than 5 interns each month, and enabled them to complete major production-level projects themselves.
+
+    - title: Cloud Engineer
+      institution: Flentas Technologies
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Deployed ELK solutions from scratch for major MNC companies, increasing their problem-solving efficiency by 7X.
+        - Converted more than 50 monolithic applications into dockerized containers, reducing resource overhead by 80%.
+        - Automated QA and Security testings on Jenkins, saving 7 days in each deployment cycle while reducing the average CVE assessment score by 90%.
+        - Deployed replication on multiple databases like PostgreSQL, MySQL, and MongoDB conferring to PCI DSS standards and deployed sharding on MongoDB increasing the performance of the application by 2X.
+        - Created more than 150 automated pipelines using Jenkins on a Docker-based Infra with production level GIT branching strategies and best practices, saving more than 30 days in each deployment cycle.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
@@ -94,4 +75,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hiking and Trail Running, Chess, Computer Assembly/Disassembly, Audiophile, Horophile.
