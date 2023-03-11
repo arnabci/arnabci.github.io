@@ -7,7 +7,7 @@ subtitle: My <a href='https://www.linkedin.com/in/arnabdutta95/'>LinkedIn</a>! F
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Phone: +1(240)-259-1069</p>
     <p>Email: arnab1309@outlook.com</p>
