@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - arnabci
 
 github_repos:
-  - alshedivat/al-folio
+  - arnabci/arnabci.github.io
   - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
