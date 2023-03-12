@@ -3,5 +3,7 @@ github_users:
 
 github_repos:
   - arnabci/arnabci.github.io
+  - arnabci/Mongo-CloudWatch-Custom-Alarms
+  - arnabci/Automate-EC2-Alarm-Creation 
   - swisskyrepo/PayloadsAllTheThings
   - PatrikH0lop/malware_showcase 
