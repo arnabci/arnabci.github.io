@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: My <a href='https://www.linkedin.com/in/arnabdutta95/'>LinkedIn</a>. Add me!
+subtitle: My <a href='https://www.linkedin.com/in/arnabci/'>LinkedIn</a>. Add me!
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>College Park, MD</p>
-    <p>arnab1309@outlook.com</p>
+    <p>arnabci@outlook.com</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
