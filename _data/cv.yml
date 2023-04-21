@@ -45,50 +45,60 @@
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">Automated CIS Hardening</a>
+    - title: Automated CIS Hardening
       year: January 2019
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: 
+        - Developed an Ansible Playbook to harden AWS Instances running RHEL and CentOS 7.
+        - Completed the entire learning and creation process within 2 days to meet a timeline.
+        - Studied the CIS Level 1 and CIS Level 2 hardening processes.
 
-    - title: <a href="https://github.com/alshedivat/al-folio">Automate MongoDB Alarms Creation</a>
+    - title: <a href="https://github.com/arnabci/Mongo-CloudWatch-Custom-Alarms">Automate MongoDB Alarms Creation</a>
       year: October 2020
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: 
+        - Created a BASH Script to automate Cloudwatch Alarms creation for unsupported MongoDB Metrics.
+        - Created a Dashboard to view the above Metrics.
 
-    - title: <a href="https://github.com/alshedivat/al-folio">Network Security Script Creation</a>
+    - title: Network Security Script Creation
       year: January 2021
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: 
+        - Designed a script with BASH that used NMAP to complete network port testing.
+        - Integrated the above script as a stage in Jenkins to automate it for 90+ running applications.
+        - Customised Jenkins to send the output of this test over email and ask for authorization to proceed.
 
 
 - title: Certifications
   type: time_table
   contents:
-    - year: January 2019
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - AWS Certified Security - Specialty <a href='https://www.credly.com/badges/47459f63-8b23-4956-9554-f89c04732fee/linked_in_profile'>(17CMR20K61V11RWL)</a>
+    - year: 2020
       items: 
-        - Max Planck Medal
-    - year: 2029
+        - AWS DevOps Engineer - Professional <a href='https://www.credly.com/badges/44fb034b-ae1d-49b1-91c8-80f81ea87de2/linked_in_profile'>(EWQSXVTJ11QQQWS4)</a>
+    - year: 2019
       items: 
-        - Max Planck Medal
-    - year: 2029
+        - AWS Sysops Administrator - Associate <a href='https://www.credly.com/badges/551521b0-87ea-4851-965d-464954ab72d9/linked_in_profile'>(M8C3MV5CLB41Q65S)</a>
+    - year: 2018
       items: 
-        - Max Planck Medal
+        - AWS Solutions Architect - Associate <a href='https://www.credly.com/badges/3da7fd6e-5bf4-4265-81d1-e99d05e50859/linked_in_profile'>(5GH2W3922JF11VKH)</a>
 
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - BASH, Python, NodeJS, C, JSON, Groovy, HTML, DB Management for SQL, MongoDB & Postgres.
+    - title: Security & Other Tools
       items:
-        - Description 1.
-        - Description 2.
+        - IAM, Active Directory, BurpSuite, Metasploit, Beef, Splunk, Wireshark, NMAP, Autopsy, Jenkins, Ansible, Terraform, Docker, Kubernetes, New Relic, ELK Stack, Grafana, Prometheus, Datadog, Splunk, GIT.
+    - title: Cloud Services & Compliances
+      items: 
+        - AWS (EC2, Organizations, SSO, Autoscaling, Cloudwatch, Cloudtrail, Route53, ELB, S3, Cloudformation, Code Pipeline, Inspector), Azure (Virtual Machines, Virtual Networks), PCI-DSS, HIPAA, ISO 27001.
+    
 
-- title: Other Interests
+- title: Awards and Hobbies
   type: list
   contents:
+    - <u>Awards:</u> Employee Of The Year 2019, Flentas. Splunk Certificate for Intro, Visualizations, Fields and Dashboards.
     - <u>Hobbies:</u> Hiking and Trail Running, Chess, Computer Assembly/Disassembly, Audiophile, Horophile.
